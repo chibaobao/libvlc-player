@@ -1,0 +1,6 @@
+# libvlc-player
+只是一个关于QT下libvlc使用的示例，使用了libvlc_video_set_callbacks，libvlc_video_set_format_callbacks，libvlc_media_player_event_manager等API设置回调。如暂停，播放，跳转等功能建议参考vlc\doc\libvlc\QtPlayer工程。
+
+## 使用
+将pro文件中的LIBS和INCLUDEPATH 改为正确的路径即可编译通过
+ 
